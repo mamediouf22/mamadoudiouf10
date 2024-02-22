@@ -1,0 +1,98 @@
+
+.section {
+  padding:30px;
+}
+.limiter{
+background: rgba(69, 123, 157, 1);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+width: 180px;
+border-radius: 10px;
+} 
+
+.nav-item{
+  margin-left: center;
+  
+}
+.nav-link{
+  text-shadow: #0e0f0f;
+
+}
+
+.container img{
+  margin-left: 10%;
+  height: 200px;
+}
+.btn{
+  background-color: #457B9D;
+  color: rgb(213, 250, 246);
+}
+
+#btn{
+  background-color: rgb(213, 250, 246) ;
+  color: #457B9D ;
+}
+
+.container h4{
+  margin-left: 10%;
+}
+.container h6{
+  margin-left: 20%;
+}
+.contenu {
+  margin-right: 10%;
+}
+
+.container h7{
+  margin-left: 10%;
+}
+
+.container h6{
+  margin-left: 10%;
+  color: rgb(109, 138, 128);
+}
+.card{
+  margin-left: 10%;
+  width: 365px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.navbar{
+width: -1295px;
+background:  rgb(213, 250, 246);
+border-bottom: 2px solid rgba(0, 0, 0, 1);
+box-shadow: 5px 28px 35px px  rgb(213, 250, 246);
+
+}
+.UTF-10 img{
+ height:40px;
+ margin-left: -1px;
+ 
+  
+}
+
+.col-md-1 img{
+  margin-right: 200%;
+  width: 1000px;
+  height: 130px;
+ 
+
+}
+h4{
+  color:  rgba(69, 123, 157, 1);
+
+}
+.m{
+  margin-left: 90px;
+}
+.jumbotron{
+  background-color:rgb(213, 250, 246);
+  padding-block: 80px;
+  margin-left: -200px;
+}
+.mmm{
+ 
+  margin-left: 350px;
+}
+.skills{
+  background-color: blue;
+}
